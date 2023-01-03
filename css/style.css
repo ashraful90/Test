@@ -1,0 +1,25 @@
+.gradient{
+	width: 30%;
+	height: 280px;
+	background-image: radial-gradient(circle,yellow,green,red,orange);
+}
+.section1 {
+    background-color: red;
+    color: #fff;
+    width: 10%;
+    height: auto;
+    margin-top: 15px;
+    float: left;
+}
+.section2 {
+	background-color: #000;
+	color: #fff;
+	width: 10%;
+    height: auto;
+    margin-top: 15px;
+    float: right;
+}
+.section3 {
+	clear:both;
+	margin-top:25px;
+}

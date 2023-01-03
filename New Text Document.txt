@@ -1,0 +1,17 @@
+background-image
+gradient
+navigation
+box sizing
+opacity
+animation
+float
+clear
+flex
+CV -project
+position_relative
+position-absult
+Tooltip-hover with text
+Overflow -scroll,hidden,auto
+z-index and css3 variables
+Flex box Layout
+
